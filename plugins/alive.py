@@ -33,22 +33,21 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/1ce8ad1f3d7d44b19f207.jpg",
+        photo=f"https://te.legra.ph/file/53461fb7bd54fad831355.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥Add me to your group and enjoy the high quality songs over telegram video chat feature. 
+Add me to your group and enjoy the high quality songs over telegram video chat feature. 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ Developer : [Aditya](https://t.me/near44)
-┣★ Manager : [♛┈⛧┈┈•༶ØP Gírl༶•┈┈⛧┈♛](https://t.me/OP_Girll)
-┣★ Support : [✰ 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐅𝐨𝐫𝐞𝐯𝐞𝐫 ✰](https://t.me/OP_FRlENDS)
+┣★ Developer : [Aditya](https://t.me/sarminz)
+┣★ Manager : [ᴀɴᴏɴʏᴍᴏᴜs么ᴋɪᴅ](https://t.me/Your_KlD)
+┣★ Owner : [𓂀 𝕐𝕠ℂ𝕠 𓂀](https://t.me/YoCo2007)
 ┗━━━━━━━━━━━━━━━━━┛
-
-💞 Dot forget to join our groups for further updates.
+Reach out to the admins for any issue.
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/OP_FRlENDS")
+                        "❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱", url=f"https://t.me/+f475qpxBLbJjMTE1")
                 ]
                 
            ]
@@ -65,7 +64,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/OP_FRlENDS")
+                        "ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+f475qpxBLbJjMTE1")
                 ]
             ]
         ),
