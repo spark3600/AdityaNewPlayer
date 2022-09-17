@@ -173,8 +173,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="✰ 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐅𝐨𝐫𝐞𝐯𝐞𝐫 ✰",
-                            url=f"https://t.me/OP_FRlENDS")
+                            text="Music 24/7",
+                            url=f"https://t.me/+f475qpxBLbJjMTE1")
 
                 ]
             ]
@@ -212,8 +212,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="✰ 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐅𝐨𝐫𝐞𝐯𝐞𝐫 ✰",
-                            url=f"https://t.me/OP_FRlENDS")
+                            text="Music 24/7",
+                            url=f"https://t.me/+f475qpxBLbJjMTE1")
 
                 ]
             ]
@@ -228,8 +228,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="✰ 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐅𝐨𝐫𝐞𝐯𝐞𝐫 ✰",
-                            url=f"https://t.me/OP_FRlENDS")
+                            text="Music 24/7",
+                            url=f"https://t.me/+f475qpxBLbJjMTE1")
 
                 ]
             ]
@@ -282,8 +282,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="✰ 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐅𝐨𝐫𝐞𝐯𝐞𝐫 ✰",
-                            url=f"https://t.me/OP_FRlENDS")
+                            text="Music 24/7",
+                            url=f"https://t.me/+f475qpxBLbJjMTE1")
 
                 ]
             ]
