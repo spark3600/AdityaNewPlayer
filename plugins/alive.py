@@ -37,9 +37,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 Add me to your group and enjoy the high quality songs over telegram video chat feature. 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ Developer : [Aditya](https://t.me/sarminz)
-┣★ Manager : [ᴀɴᴏɴʏᴍᴏᴜs么ᴋɪᴅ](https://t.me/Your_KlD)
-┣★ Owner : [𓂀 𝕐𝕠ℂ𝕠 𓂀](https://t.me/YoCo2007)
+┣★ Developer : [Aditya](https://t.me/swssy)
 ┗━━━━━━━━━━━━━━━━━┛
 Reach out to the admins for any issue.
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
@@ -47,7 +45,7 @@ Reach out to the admins for any issue.
             [
                 [
                     InlineKeyboardButton(
-                        "❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱", url=f"https://t.me/+f475qpxBLbJjMTE1")
+                        "❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱", url=f"https://t.me/swssy")
                 ]
                 
            ]
@@ -64,7 +62,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+f475qpxBLbJjMTE1")
+                        "ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/swssy")
                 ]
             ]
         ),
