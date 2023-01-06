@@ -174,7 +174,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="Music 24/7",
-                            url=f"https://t.me/+f475qpxBLbJjMTE1")
+                            url=f"https://t.me/swssy")
 
                 ]
             ]
@@ -213,7 +213,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="Music 24/7",
-                            url=f"https://t.me/+f475qpxBLbJjMTE1")
+                            url=f"https://t.me/swssy")
 
                 ]
             ]
@@ -229,7 +229,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="Music 24/7",
-                            url=f"https://t.me/+f475qpxBLbJjMTE1")
+                            url=f"https://t.me/swssy")
 
                 ]
             ]
@@ -283,7 +283,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="Music 24/7",
-                            url=f"https://t.me/+f475qpxBLbJjMTE1")
+                            url=f"https://t.me/swssy")
 
                 ]
             ]
